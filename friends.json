@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Juan Diego",
+        "hobby":"surf"
+    },
+    {
+        "name":"Bernardo",
+        "hobby":"skate"
+    },
+    {
+        "name":"Eduardo",
+        "hobby":"Football"
+    },
+    {
+        "name":"Mateo",
+        "hobby":"Hiking"
+    },
+    {
+        "name":"David",
+        "hobby":"Video Games"
+    }
+]
