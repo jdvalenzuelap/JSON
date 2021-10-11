@@ -1,22 +1,37 @@
 [
     {
         "name":"Juan Diego",
-        "hobby":"surf"
+        "hobby":"surf",
+        "age" : "21",
+        "phone" : "3335761895",
+        "Address" : "av de las palmas 150"
     },
     {
         "name":"Bernardo",
-        "hobby":"skate"
+        "hobby":"skate",
+        "age" : "22",
+        "phone" : "3335764455",
+        "Address" : "1579 2nd avenue"
     },
     {
         "name":"Eduardo",
-        "hobby":"Football"
+        "hobby":"Football",
+        "age" : "19",
+        "phone" : "3335766678",
+        "Address" : "978 caminito de la reina"
     },
     {
         "name":"Mateo",
-        "hobby":"Hiking"
+        "hobby":"Hiking",
+        "age" : "18",
+        "phone" : "3335734567",
+        "Address" : "av de las palmas 200"
     },
     {
         "name":"David",
-        "hobby":"Video Games"
+        "hobby":"Video Games",
+        "age" : "23",
+        "phone" : "3335767890",
+        "Address" : "country 9782"
     }
 ]
